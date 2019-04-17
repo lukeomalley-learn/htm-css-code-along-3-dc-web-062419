@@ -31,13 +31,14 @@ figcaption {
   text-align: right;
 }
 
+/* Class selector */
 .milk-text {
   font: bold 2.6em "Elsie Swash Caps", cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
 
-/* ID Selector (apply to only one unique element per page )*/
+/* ID selector (apply to only one unique element per page )*/
 
 #logo {
   background-color: aqua;
