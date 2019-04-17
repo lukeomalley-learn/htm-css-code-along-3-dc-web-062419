@@ -4,6 +4,14 @@
 
 selector {
   property: value;
+  property: value;
+  property: value;
 }
 
 */
+
+/* Type selector */
+
+p {
+  font-size: 16px;
+}
